@@ -38,7 +38,10 @@
 
     点击“完成”按钮
 
-1. 你可以通过右键点击 [安装程序](/resources/installer.exe)，选择“链接另存为”，然后在本地完成插件的安装。
+1. 你可以点击 [安装程序](/resources/installer.exe)，选择“download”，然后在本地完成插件的安装。请注意，一定要用这种方式，之前发现如果点右键，选择“链接另存为”的话，下载的安装程序是不全的。
+
+    ![下载应用](images/2019-03-21-13-47-20.png)
+
     > 如果你在安装过程中遇到问题，麻烦在<https://github.com/chenxizhang/tingpowerpointaddin/issues> 给我提交问题，你也可以给我发邮件（aioffice@xizhang.com）, 但无论哪种方式，请务必提供一下错误截图，以及你当前使用的Windows系统版本，PowerPoint版本，是否使用Office 365等信息。我会第一时间回复。目前我们测试过的是在Windows 10上面，使用Office 365自带的PowerPoint版本，其安装过程大致为1分钟，非常顺畅。
 
 ## 如何试用
