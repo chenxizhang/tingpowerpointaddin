@@ -12,6 +12,8 @@
 1. 可以批量生成语音文档。
 1. 可以实现自定义语音，例如把你的声音合成进去，但是又不需要你亲自朗读。
 
+这只是一个开始，精彩还会有更多，如果有大家的参与的话。
+
 ## 申请试用
 
 欢迎大家加入早期试用机会，你的建议和反馈，可以帮助我改进这个插件设计，甚至有可能会真的出现在以后版本的Office 365中呢。还等什么，请通过 <https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9NNufPMIKNJmM6xKHZY6M9UNzJZUzU1UEJYUEEzVFRLUU5EWUNEVUJBUy4u> 给我提交一些信息吧，你将会被加入到一个种子用户列表中，并且可以直接通过邮件和我取得联系。
