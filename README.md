@@ -64,6 +64,12 @@
 
 这个插件使用了自动更新技术，你每次打开PowerPoint时它就会自动检测服务器端是否有最新版本，然后帮助你完成更新。
 
+## 如何卸载
+
+虽然我不愿意看到这样，但如果你不想继续使用这个插件，你可以在“应用和功能”这个页面中，搜索TingPowerPoint，然后删除即可。
+
+![卸载](images/2019-03-22-09-25-00.png)
+
 ## 隐私声明
 
 为了帮助我们改进产品设计，该插件会收集一些匿名的数据，包括点击菜单按钮的顺序，以及当前PowerPoint的版本信息。这些数据不包含任何跟你个人有关的信息。
@@ -77,3 +83,4 @@
 ## 欢迎反馈
 
 我非常希望得到大家的反馈意见，请通过 <https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9NNufPMIKNJmM6xKHZY6M9UODlKWUg0MkJLQTlGSFdGU05KUjAzQURVNS4u> 这里提交你的意见和建议，谢谢！
+
